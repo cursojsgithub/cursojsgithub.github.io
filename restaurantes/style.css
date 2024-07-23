@@ -1,0 +1,46 @@
+.ficha{
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.112);
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.112);
+    border-radius: 5px;
+    margin-bottom: 60px;
+}
+.imagen{
+    text-align: center;
+   
+}
+header{
+    width: 100%;
+    text-align: center;
+    background-color: aqua;
+    height: 40px;
+    margin-bottom: 2%;
+    align-items: center;
+}
+#buscador{
+    align-items: center;
+}
+.imagen img{
+    
+    margin: 2%;
+    border: 1px solid rgba(0, 0, 0, 0.112);
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.112);
+    border-radius: 5px;
+
+}
+
+.informacion {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+#nombre{
+    font-weight: bold;
+}
+#descripcion{
+    margin-bottom: 20px;
+}
+.datos{
+    margin: 2%;
+    margin-bottom: 1px;
+}
