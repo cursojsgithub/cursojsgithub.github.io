@@ -1,0 +1,27 @@
+[
+    {
+        "producto" : "Pintura",
+        "localizacion" : "Pasillo 3",
+        "cantidad" : 3
+    },
+    {
+        "producto" : "Azulejos",
+        "localizacion" : "Pasillo 5",
+        "cantidad" : 10
+    },
+    {
+        "producto" : "Suelo Laminado",
+        "localizacion" : "Pasillo 1",
+        "cantidad" : 8
+    },
+    {
+        "producto" : "Grifos",
+        "localizacion" : "Pasillo 8",
+        "cantidad" : 3
+    },
+    {
+        "producto" : "Lamparas",
+        "localizacion" : "Pasillo 2",
+        "cantidad" : 20
+    }
+]
